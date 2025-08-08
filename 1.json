@@ -1,0 +1,98 @@
+{
+  "imgName": "img/6d10da477e6e4fb4873f173f5da79817/3#办公楼大厅5G智能柜_11308524-MwH-1b8808c7494d4622a18a7c1b051c6a13.jpg",
+  "validRegion": "0",
+  "datasetVersion": "2024090935b51648ad6f4d3fbc691d688e64d1c7_7",
+  "labelStatus": 1,
+  "judgeStatus": -1,
+  "imgType": 0,
+  "judgeOmitCount": 0,
+  "trainType": 3,
+  "taggingMode": 1,
+  "coordOverlap": 2,
+  "list": [
+    {
+      "tagId": "1bbb0ea5ce7b4766b4f71eee05391c74",
+      "tagInfo": "[{\"coord\":[{\"x\":2261,\"y\":264},{\"x\":2391,\"y\":441}],\"type\":1}]",
+      "index": 1,
+      "status": 0,
+      "areaRatio": 2,
+      "areaRatioAct": 0.0062,
+      "aspectRatio": 0.7345,
+      "parentId": "",
+      "tagName": "头肩",
+      "type": 0,
+      "children": [
+        {
+          "tagId": "79f33367093641f88afbd4be3a813885",
+          "tagName": "人脸状态",
+          "parentId": "1bbb0ea5ce7b4766b4f71eee05391c74",
+          "type": 1,
+          "children": [
+            {
+              "tagId": "358524a2c7a146fd9bb8ac43a54899e2",
+              "tagName": "正侧面",
+              "parentId": "79f33367093641f88afbd4be3a813885",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tagId": "1bbb0ea5ce7b4766b4f71eee05391c74",
+      "tagInfo": "[{\"coord\":[{\"x\":2261,\"y\":264},{\"x\":2391,\"y\":441}],\"type\":1}]",
+      "index": 1,
+      "status": 0,
+      "areaRatio": 2,
+      "areaRatioAct": 0.0062,
+      "aspectRatio": 0.7345,
+      "parentId": "",
+      "tagName": "头肩",
+      "type": 0,
+      "children": [
+        {
+          "tagId": "f42dc03ca6ff43eba401735160b02f6a",
+          "tagName": "下颚带状态",
+          "parentId": "1bbb0ea5ce7b4766b4f71eee05391c74",
+          "type": 1,
+          "children": [
+            {
+              "tagId": "af074b03fa8f4f239ee19fa9e4bfe32c",
+              "tagName": "佩戴",
+              "parentId": "f42dc03ca6ff43eba401735160b02f6a",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tagId": "1bbb0ea5ce7b4766b4f71eee05391c74",
+      "tagInfo": "[{\"coord\":[{\"x\":2261,\"y\":264},{\"x\":2391,\"y\":441}],\"type\":1}]",
+      "index": 1,
+      "status": 0,
+      "areaRatio": 2,
+      "areaRatioAct": 0.0062,
+      "aspectRatio": 0.7345,
+      "parentId": "",
+      "tagName": "头肩",
+      "type": 0,
+      "children": [
+        {
+          "tagId": "d3531b6f85474ab9af16fb0460df6b6a",
+          "tagName": "佩戴安全帽",
+          "parentId": "1bbb0ea5ce7b4766b4f71eee05391c74",
+          "type": 1,
+          "children": [
+            {
+              "tagId": "59ea75cafca247cbac6b2bdfaef0a1aa",
+              "tagName": "是",
+              "parentId": "d3531b6f85474ab9af16fb0460df6b6a",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
